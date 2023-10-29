@@ -34,6 +34,8 @@
   left: 0;
 background-color: #0f172a;
 
+z-index: 99999;
+
  border-bottom: 1px solid #00a1f756;
 
 }
