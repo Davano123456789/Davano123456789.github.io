@@ -104,9 +104,7 @@ padding-bottom: 1rem;
     align-items: center;
 }
 
-.btn_link{
-    padding-right: 1.5rem;
-}
+
 
 /* halaman2 */
 .tentang{
@@ -215,10 +213,6 @@ border-radius: 10px;
 .kartu-video:hover{
   background-color: #0c2f4b;
   transform: translateY(-10px);
-}
-.des_kartu_halaman4 p{
-  font-size: 13px;
-  padding-bottom: 1.3rem;
 }
 .tombol-kartu-video a{
   padding: 8px 20px;
